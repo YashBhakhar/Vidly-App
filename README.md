@@ -1,0 +1,1 @@
+for run this project type : npm run start
